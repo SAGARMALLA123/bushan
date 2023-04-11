@@ -1,6 +1,6 @@
    $ git status
     [...]
-    /target
+    target/
 
     # Untracked files:
     [...]
